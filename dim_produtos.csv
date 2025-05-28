@@ -1,0 +1,11 @@
+id_produto,nome_produto,categoria,fornecedor_id,preco_unitario
+101,Produto 1,Alimentos,403,211
+102,Produto 2,Brinquedos,403,463
+103,Produto 3,Eletrônicos,403,296
+104,Produto 4,Alimentos,405,180
+105,Produto 5,Alimentos,404,479
+106,Produto 6,Brinquedos,403,333
+107,Produto 7,Eletrônicos,405,41
+108,Produto 8,Eletrônicos,402,272
+109,Produto 9,Alimentos,404,255
+110,Produto 10,Roupas,402,364

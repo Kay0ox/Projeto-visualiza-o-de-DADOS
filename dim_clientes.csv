@@ -1,0 +1,21 @@
+id_cliente,nome_cliente,estado,cidade
+201,Cliente 1,SP,Cidade 1
+202,Cliente 2,MG,Cidade 2
+203,Cliente 3,MG,Cidade 3
+204,Cliente 4,RJ,Cidade 4
+205,Cliente 5,BA,Cidade 5
+206,Cliente 6,BA,Cidade 6
+207,Cliente 7,MG,Cidade 7
+208,Cliente 8,BA,Cidade 8
+209,Cliente 9,BA,Cidade 9
+210,Cliente 10,SP,Cidade 10
+211,Cliente 11,MG,Cidade 11
+212,Cliente 12,RS,Cidade 12
+213,Cliente 13,MG,Cidade 13
+214,Cliente 14,RS,Cidade 14
+215,Cliente 15,SP,Cidade 15
+216,Cliente 16,RJ,Cidade 16
+217,Cliente 17,BA,Cidade 17
+218,Cliente 18,SP,Cidade 18
+219,Cliente 19,BA,Cidade 19
+220,Cliente 20,RJ,Cidade 20
